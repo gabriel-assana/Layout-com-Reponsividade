@@ -16,7 +16,7 @@
 </div>
   
   <div align="center"> 
-    <img src="images/layout-responsivo.png" alt="logo"/>
+    <img src="images/layout-responsivo.gif" alt="logo"/>
   </div> 
     
   </br>
