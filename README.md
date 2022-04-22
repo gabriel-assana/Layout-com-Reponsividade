@@ -39,3 +39,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔️ CSS
 
 ✔️ Flex-box
+
+✔️ Layout Responsivo
