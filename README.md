@@ -14,18 +14,10 @@
   </p>
 
 </div>
-
-   <h2 align="center">
-     Versão para Mobile:
-  </h2>
-   
-  <img src="images/Mobile-Reponsivel.png" alt="logo"/>
-
-   <h2 align="center">
-     Versão para Desktop:
-  </h2>
-   
-  <img src="images/Desktop-Responsivel.png" alt="logo"/>
+  
+  <div align="center"> 
+    <img src="images/layout-responsivo.png" alt="logo"/>
+  </div> 
     
   </br>
   
