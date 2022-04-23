@@ -24,8 +24,8 @@
   ## 📖 Conceitos e técnicas aprendidas.
 
 - [x] Principais conceitos de um layout reponsivo.
-- [x] Regra mobile-first
-- [x] Regra das unidades de medidas flexíveis (REM e EM).
+- [x] Conceitos e Regras mobile-first
+- [x] Regras das unidades de medidas flexíveis (REM e EM).
 
   
 ## 🔗 Link da aplicação no ar: https://layout-responsivo-css.netlify.app/
